@@ -13,6 +13,8 @@ A Fast and Flexible Static Site Generator built with love by [spf13](http://spf1
 
 ## Overview
 
+[![Join the chat at https://gitter.im/gdey/hugo](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/gdey/hugo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Hugo is a static site generator written in [Go][]. It is optimized for speed, easy use and configurability. Hugo takes a directory with content and templates and renders them into a full HTML website.
 
 Hugo relies on Markdown files with front matter for meta data. And you can run Hugo from any directory. This works well for shared hosts and other systems where you don’t have a privileged account.
